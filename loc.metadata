@@ -1,24 +1,24 @@
-1	PCW	Pacific Creek	Snake River	in Wyoming
-2	MC	Main Creek	Provo River	1st sampling
-2	MCR	Main Creek	Provo River	2nd sampling
-3	SCT	Soldier Creek	Spanish Fork	above Thistle
-3	SFD	Spanish Fork	Spanish Fork	near Diamond Fork
-3	TCR	Thistle Creek	Spanish Fork	near Little Clear Creek
-3	TCU	Thistle Creek	Spanish Fork	below Indianola
-4	SA2	Salina Creek	Sevier River	near Salina
-4	SA3	Salina Creek	Sevier River	near Gooseberry Creek
-4	SA4	Salina Creek	Sevier River	near Niotche Creek
-4	SCI	Salina Creek	Sevier River	above I-70
-5	BC	Bear Creek	Sevier River	mid-canyon on UT-20
-6	EFT	East Fork Sevier River	Sevier River	below Tropic
-7	SPM	San Pitch	Sevier River	near Mt Pleasant
-8	CV	Sevier River	Sevier River	near Circleville
-8	LC	Lost Creek	Sevier River	2mi South of I-70
-8	LSP	San Pitch	Sevier River	below Gunnison
-8	MTC	Mammoth Creek	Sevier River	near Sevier confluence
-8	SEA	East Fork Sevier River	Sevier River	near Antimony
-8	SEK	East Fork Sevier River	Sevier River	4mi East of Kingston
-8	SMB	Sevier River	Sevier River	US-89 and UT-12
-8	SRJ	Sevier River	Sevier River	near Joseph
-8	SRP	Sevier River	Sevier River	below Piute
-8	SVP	Sevier River	Sevier River	near Panguitch
+1	PCW	Pacific Creek	Snake River	in Wyoming	43.868463	-110.475763
+2	MC	Main Creek	Provo River	1st sampling	40.404	-111.465333
+2	MCR	Main Creek	Provo River	2nd sampling	40.367284	-111.401108
+3	SCT	Soldier Creek	Spanish Fork	above Thistle	39.996	-111.419833
+3	SFD	Spanish Fork	Spanish Fork	near Diamond Fork	40.023667	-111.504333
+3	TCR	Thistle Creek	Spanish Fork	near Little Clear Creek	39.904906	-111.551584
+3	TCU	Thistle Creek	Spanish Fork	below Indianola	39.822167	-111.512167
+4	SA2	Salina Creek	Sevier River	near Salina	38.881167	-111.578167
+4	SA3	Salina Creek	Sevier River	near Gooseberry Creek	38.915167	-111.736
+4	SA4	Salina Creek	Sevier River	near Niotche Creek	38.932	-111.834167
+4	SCI	Salina Creek	Sevier River	above I-70	38.895333	-111.535
+5	BC	Bear Creek	Sevier River	mid-canyon on UT-20	37.984833	-112.488333
+6	EFT	East Fork Sevier River	Sevier River	below Tropic	37.623	-112.245
+7	SPM	San Pitch	Sevier River	near Mt Pleasant	39.561095	-111.490017
+8	CV	Sevier River	Sevier River	near Circleville	38.197	-112.2345
+8	LC	Lost Creek	Sevier River	2mi South of I-70	38.8795	-111.861667
+8	LSP	San Pitch	Sevier River	below Gunnison	39.163833	-111.730667
+8	MTC	Mammoth Creek	Sevier River	near Sevier confluence	37.625833	-112.452167
+8	SEA	East Fork Sevier River	Sevier River	near Antimony	38.109333	-112.002333
+8	SEK	East Fork Sevier River	Sevier River	4mi East of Kingston	38.1965	-112.126
+8	SMB	Sevier River	Sevier River	US-89 and UT-12	37.749167	-112.371
+8	SRJ	Sevier River	Sevier River	near Joseph	38.601667	-112.226667
+8	SRP	Sevier River	Sevier River	below Piute	38.356833	-112.185333
+8	SVP	Sevier River	Sevier River	near Panguitch	37.851667	-112.436167
